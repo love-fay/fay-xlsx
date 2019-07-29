@@ -1,0 +1,11 @@
+.fay-xlsx-border{
+  border-left: 1px solid #99999999;
+  //width: 1px;
+  cursor: col-resize;
+  position: absolute;
+  &-horizontal{
+    border-bottom: 1px solid #99999999;
+    //height: 1px;
+    border-left: none;
+  }
+}

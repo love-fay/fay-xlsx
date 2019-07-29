@@ -1,0 +1,18 @@
+.fay-xlsx-col-letter{
+  position: fixed;
+  z-index: 5;
+  width: 80%;
+  top: 25px;
+  overflow: hidden;
+  tr{
+    background: #EBEBEB;
+  }
+  td{
+    text-align: center;
+  }
+  &-content{
+    display: inline-block;
+    width: calc(100% - 1px);
+    cursor: s-resize;
+  }
+}

@@ -1,0 +1,13 @@
+.fay-xlsx-row-num{
+  position: absolute;
+  top: 47px;
+  height: calc(100% - 47px);
+  tr{
+    background: #EBEBEB;
+  }
+  td{
+    text-align: center;
+    width: 40px;
+    cursor: e-resize;
+  }
+}

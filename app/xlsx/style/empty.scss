@@ -1,0 +1,12 @@
+.fay-xlsx-empty{
+  position: absolute;
+  top: 22px;
+  left: 41px;
+  td{
+    overflow: hidden;
+    white-space: pre;
+    text-overflow: ellipsis;
+    border-right: 1px solid #9999;
+    border-bottom: 1px solid #9999;
+  }
+}
