@@ -21,7 +21,7 @@
   },
     "dependencies": {
     "@fay-react/lib": "0.0.1-alpha.1",
-    "@fay-react/tool": "0.0.1-alpha.4",
+    "@fay-react/tool": "0.0.1-alpha.41",
     "classnames": "^2.2.6",
     "exceljs": "^1.13.0",
     "fs": "0.0.1-security",
